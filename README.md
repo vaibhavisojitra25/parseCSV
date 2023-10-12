@@ -46,9 +46,9 @@ List any prerequisites or dependencies that need to be installed before using th
    php artisan csv:parse products_comma_separated.csv --output=output_file.json
 
 
-   - Ensure that the products_comma_separated.csv file is located in the root folder of your Laravel project. The resulting JSON file will also be saved in the project\'s root folder.
+- Ensure that the products_comma_separated.csv file is located in the root folder of your Laravel project. The resulting JSON file will also be saved in the project\'s root folder.
 
-   - Now, you can use the parseCSV project to parse CSV files into JSON format. This can be particularly useful for data transformation and integration tasks in your Laravel project.
+- Now, you can use the parseCSV project to parse CSV files into JSON format. This can be particularly useful for data transformation and integration tasks in your Laravel project.
 
 ## Running Tests
 
